@@ -10,7 +10,7 @@
 ---
 
 ## 📖 Project Overview
-]This repository contains my final project for the Digital Literacy course at VIT Bhopal University. ]As a Student Digital Ambassador, I have curated this portfolio to demonstrate essential digital skills, from professional branding to cybercrime awareness.
+This repository contains my final project for the Digital Literacy course at VIT Bhopal University. ]As a Student Digital Ambassador, I have curated this portfolio to demonstrate essential digital skills, from professional branding to cybercrime awareness.
 
 ## 📂 Repository Structure
 This project is organized into five modules, each corresponding to a specific task:
