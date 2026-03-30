@@ -1,0 +1,33 @@
+Stay Safe Online: Prevention Checklist
+
+-Enable Two-Factor Authentication (2FA): Always add an extra layer of security to your college email and social media accounts using apps like Google Authenticator or SMS codes.
+
+
+-Use Strong, Unique Passwords: Never use the password "123456" or your own name. Always use a combination of capital and lowercase letters, numbers, and symbols for different accounts.
+
+
+-Verify Links Before Clicking: Always hover over the links in the messages or emails you receive and check the actual URL. Never click on suspicious or shortened URLs sent by unknown individuals.
+
+
+-Update Software Regularly: Always keep your operating system and antivirus software updated to protect yourself from the latest hacking techniques employed by cyber criminals.
+
+
+-Be Skeptical of "Urgent" Requests: If the messages or emails you receive try to scare you with threats like "your account will be deleted in 2 hours," then it is a sure shot scam.
+
+
+-Review App Permissions: Always check the app permissions on your smartphones and make sure that the apps are not using your camera, microphone, and contact lists in any way.
+
+
+-Financial Safety - UPI PIN Logic: Never disclose your UPI PIN to receive money. A UPI PIN is required only to send money.
+
+
+-Financial Safety - Verify Merchant Names: Before pressing 'Pay' on a UPI app, one needs to re-verify the verified name of the recipient to ensure it is the person or store they wish to make a payment to.
+
+How to Report Cybercrime in India
+ In case you or anyone you know is a victim of digital scams, you can contact these official channels at all times:
+
+
+ -National Cyber Crime Reporting Portal: [suspicious link removed] 
+
+
+ -National Helpline Number: 1930 (Available 24x7)
